@@ -1,7 +1,5 @@
 # 🚀 **Kubernetes Dashboard – Advanced Kubernetes Monitoring & Security**  
 
-![kubedash](https://imgur.com/xF4zrEI.png)
-
 **A feature-rich Kubernetes Dashboard with live system monitoring, health checks, and container security scanning using Trivy.**  
 Empower your DevOps workflow with **real-time cluster insights, security vulnerability detection, and an intuitive UI** for Kubernetes resource management.  
 
